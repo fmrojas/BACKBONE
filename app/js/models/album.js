@@ -1,1 +1,2 @@
-Sfotipy.Models.Album = Backbone.Model.extend({});
+var Backbone = require('backbone');
+module.exports = Backbone.Model.extend({});
